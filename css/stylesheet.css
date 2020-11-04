@@ -44,7 +44,7 @@ body, html {
 body {
   background: #bbbbbb;
   color: #4c4d4d;
-  font-family: 'Quicksand', sans-serif;
+  font-family: 'Poppins', sans-serif;
 }
 
 /*-------- Preloader --------*/
@@ -183,7 +183,7 @@ iframe {
 
 h1, h2, h3, h4, h5, h6 {
   color: #252b33;
-  font-family: 'Quicksand', sans-serif;
+  font-family: 'Poppins', sans-serif;
 }
 
 /* =================================== */
